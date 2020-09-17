@@ -60,5 +60,5 @@ The file contain style attribute, background image attribute, footer styling and
 * Github profile: https://github.com/IonGavrilita
 
 ## Directory:
-* Website: https://iongavrilita.github.io/h2_responsive_portfolio/
-* Source: https://github.com/IonGavrilita/h2_responsive_portfolio# h2_bootstrap_portfolio
+* Website: https://iongavrilita.github.io/h2_bootstrap_portfolio/
+* Source: https://github.com/IonGavrilita/h2_bootstrap_portfolio
